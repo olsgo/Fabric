@@ -1,6 +1,3 @@
-[submodule "Satin"]
-	path = Satin
-	url = https://github.com/Fabric-Project/Satin
 [submodule "Lygia"]
 	path = Lygia
 	url = https://github.com/vade/lygia/

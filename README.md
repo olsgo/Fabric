@@ -24,7 +24,7 @@ An early alpha of Satin rendering a instances of a sphere geometry, along with a
 
 Fabric is authored by by [Anton Marini](https://github.com/vade).
 
-Fabric uses Satin 3D engine [Satin rendering engine](https://github.com/Fabric-Project/Satin) written by @[Reza Ali](https://github.com/rezaali). 
+Fabric uses Satin 3D engine [Satin rendering engine](https://github.com/Fabric-Project/Satin) written by @[Reza Ali](https://github.com/rezaali). In this fork, the canonical Satin source lives at `ThirdParty/SwiftPM/Satin` (linked into `ThirdParty/Fabric/Satin`) and tracks our fork https://github.com/olsgo/Satin so Fabric and Rothko share a single codebase.
 
 Fabric includes a licensed Metal port of [Lygia](https://lygia.xyz) shader library, powering Image effects and more, written by @[Patricio Gonzalez Vivo](https://github.com/patriciogonzalezvivo/) and contributors.
 
@@ -94,7 +94,6 @@ If you are interested in contributing, please do not hesitate to reach out / com
   - They do not think the way I think.
   - They do not expose the layers of abstraction I want to work with.
   - They do not provide the user experience I want.
-
 
 
 
